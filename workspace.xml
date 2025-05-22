@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be808c3d-9925-462b-b0ee-79d221fb0b48" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/configuracion/BasedeDatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlador/ControladorAutenticacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlador/ControladorCarrito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlador/ControladorCliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlador/ControladorCompra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlador/ControladorPago.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlador/ControladorProducto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlador/ControladorProveedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlador/ControladorReporte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlador/ControladorVenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/BoletaPdfDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/ClienteDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/CompraDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/DetalleVentaDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/ItemCarritoDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/PagoDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/ProductoDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/ProveedorDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/UsuarioDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/VentaDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/excepcion/ManejadorGlobalExcepciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/excepcion/RecursoNoEncontradoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/excepcion/SolicitudIncorrectaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapeador/BoletaPdfMapeador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapeador/ClienteMapeador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapeador/CompraMapeador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapeador/DetalleVentaMapeador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapeador/ItemCarritoMapeador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapeador/PagoMapeador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapeador/ProductoMapeador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapeador/ProveedorMapeador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapeador/UsuarioMapeador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapeador/VentaMapeador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modelo/BoletaPdf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modelo/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modelo/Compra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modelo/DetalleVenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modelo/ItemCarrito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modelo/Pago.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modelo/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modelo/Proveedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modelo/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modelo/Venta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/minimarketzea/MinimarketZeaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repositorio/BoletaPdfRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repositorio/ClienteRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repositorio/CompraRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repositorio/DetalleVentaRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repositorio/ItemCarritoRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repositorio/PagoRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repositorio/ProductoRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repositorio/ProveedorRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repositorio/UsuarioRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repositorio/VentaRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servicio/ServicioBoletaPdf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servicio/ServicioCarrito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servicio/ServicioCliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servicio/ServicioCompra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servicio/ServicioPago.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servicio/ServicioProducto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servicio/ServicioProveedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servicio/ServicioReporte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servicio/ServicioUsuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servicio/ServicioVenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilidades/GeneradorPDF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilidades/UtilFechas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/minimarketzea/MinimarketZeaApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Exception" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2xLTvg1aWYeWmKlGHDioBkkDaPV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.MinimarketZeaApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="MinimarketZeaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="MinimarketZEA" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.minimarketzea.MinimarketZeaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be808c3d-9925-462b-b0ee-79d221fb0b48" name="Changes" comment="" />
+      <created>1747716585371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747716585371</updated>
+      <workItem from="1747716586426" duration="433000" />
+      <workItem from="1747780310845" duration="6084000" />
+      <workItem from="1747792140384" duration="1783000" />
+      <workItem from="1747797118954" duration="30000" />
+      <workItem from="1747884339017" duration="115000" />
+      <workItem from="1747937092200" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
